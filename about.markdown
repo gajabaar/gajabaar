@@ -2,7 +2,7 @@
 layout: page
 title: Program Outline
 permalink: /about/
-sidebar_sort_order: 3
+sidebar_sort_order: 6
 sidebar_link: true
 ---
 

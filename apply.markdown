@@ -2,11 +2,11 @@
 layout: page
 title: How to Apply
 permalink: /apply/
-sidebar_sort_order: 1000
+sidebar_sort_order: 9
 sidebar_link: true
 ---
 
-The following set of questionaires are designed to assess the way you obtain and retain information (in theory and in practice).
+The following questionaire is designed to assess the way you obtain and retain information (in theory and in practice).
 Creativity will be welcome in the answers.
 
 The application can be submitted by providing the answers
