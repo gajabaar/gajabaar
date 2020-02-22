@@ -22,7 +22,7 @@ For the ones new to cybsersecurity, a starter curriculum can be found under
 [Program Outline]({{ site.baseurl }}/about/).
 
 __Q. Will I get PAID?__  
-Yes - all expenses covered (tools/labs/books). We've allocate $300/mentee.
+Yes - all expenses covered (tools/labs/books). We've allocated $300/mentee.
 
 __Q. Do I need prior exposure to cybersecurity?__  
 No. However, experience with coding in a programming language will be  helpful.
@@ -32,7 +32,7 @@ __Q. So what are the logistics like?__
 *Application Deadline:* March 30, 2019   
 *Commitment:* 10-20 hrs/week (depending on skill levels, goals and availability)
 *Mentor-Mentee Sessions:* Remote. 1-2 times/week.  
-*Application:* [Here]() via Google Forms. Sneak Peak available
+*Application:* [Here](https://docs.google.com/forms/d/e/1FAIpQLSeKhcWN3VVSb-sYk0CPeXj0DDDaNIYn4Sz_fiWwKfpqWGUWnw/viewform) via Google Forms. Sneak Peak available
 [here]({{ site.baseurl }}/apply/) on the site.
 
 You will hear back from us within a week of your submissions. 
