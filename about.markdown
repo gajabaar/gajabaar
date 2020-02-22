@@ -25,7 +25,7 @@ Readings from the "The Linux Programming Interface" by Michael Kerrisk
 *Lab:* Overthewire Bandit
 
 __WEEK 3__   
-Sharpening the security skillset
+Sharpening the security skillset  
 *Lab:* the matasano challenge (crypto and programming)
 
 
@@ -43,9 +43,9 @@ The Production Lifecycle
 of how the developed software gets deployed.  
 *Lab:* Deploy the sample software you developed replicating the workflow of the company.
 
-__WEEK 6__
-Sharpening the security Skillset
-*Lab* Overthewire Red Tiger (writing your own script for blind injection flaws)
+__WEEK 6__  
+Sharpening the security Skillset  
+*Lab:* Overthewire Red Tiger (writing your own script for blind injection)
 
 ## Part 3: Finding and Exploiting Vulnerabilities
 __WEEK 7__   
@@ -53,25 +53,25 @@ The Toolset Available at the terminal
 Readings from "The Red Team Field Manual" by Ben Clark    
 *Lab:* Metasploitable 1/2/3 (with Kali Linux and Windows 7) Setup and Exploit
 
-__WEEK 8__
-The Web Vector (bonus: learning a GUI tool)
-*Learn-the-tool:* Burp-Suite
+__WEEK 8__  
+The Web Vector (bonus: learning a GUI tool)  
+*Learn-the-tool:* Burp-Suite  
 *Lab:* Overthewire Narnia
 
-__WEEK 9__
-Sharpening the security skillset
-*Lab:* Attack the sample software built and deployed in Week 5.
+__WEEK 9__  
+Sharpening the security skillset  
+*Lab:* Assess the sample software built and deployed in Week 5.
 
 ## Part 4: Fixing the Vulnerabilities
-__WEEK 10__
-Reporting
-Readings from "The Pentesting Stardard"
-*Learn-the-tool:* OpenVAS
+__WEEK 10__  
+Reporting  
+Readings from "The Pentesting Stardard"  
+*Learn-the-tool:* OpenVAS  
 *Lab:* Write a report for the vulnerabilities and fixes in the software built in Week 5.
 
-__WEEK 11__
+__WEEK 11__  
 *Lab:* hackthebox.eu machines exploit and fixes.
 
-__WEEK 12__
+__WEEK 12__  
 *Lab:* hackthebox.eu machines exploit and fixes
 
