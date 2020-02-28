@@ -6,9 +6,9 @@ sidebar_sort_order: 6
 sidebar_link: true
 ---
 
-The following is a sample starter curriculum for mentees
+The following is a sample starter curriculum for participants
 who do not have prior exposure to cybersecurity. The schedule will be adapted
-to reflect individual mentee's experiences and goals.
+to reflect individual's experiences and goals.
 
 <p class="message">
 A week-by-week basis breakdown of the program
@@ -26,7 +26,7 @@ Readings from the "The Linux Programming Interface" by Michael Kerrisk
 
 __WEEK 3__   
 Sharpening the security skillset  
-*Lab:* the matasano challenge (crypto and programming)
+*Lab:* the matasano challenge (cryptography and programming)
 
 
 ## Part 2: Getting to know what we're protecting
@@ -49,7 +49,7 @@ Sharpening the security Skillset
 
 ## Part 3: Finding and Exploiting Vulnerabilities
 __WEEK 7__   
-The Toolset Available at the terminal 
+The Toolset Available at the terminal   
 Readings from "The Red Team Field Manual" by Ben Clark    
 *Lab:* Metasploitable 1/2/3 (with Kali Linux and Windows 7) Setup and Exploit
 
