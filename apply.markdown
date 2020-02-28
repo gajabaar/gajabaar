@@ -104,5 +104,5 @@ the port numbers.*
 
 
 Q. Tell us about something you have always wanted to learn but 
-havan't figured out at. We will talk about it during the
+haven't figured out yet. We will talk about it during the
 interview and see if we can get you resources to figure it out.
