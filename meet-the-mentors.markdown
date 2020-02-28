@@ -9,7 +9,7 @@ sidebar_link: true
 |Prasant Adhikari
 |-----
 |learner; likes language and literature|
-|PhD candidate(Network Security) @[NYU](nyu.edu)|
+|PhD candidate (Network Security) @[NYU](nyu.edu)|
 
 |Pratima Sharma
 |-----
