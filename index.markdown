@@ -37,4 +37,4 @@ __Q. So what are the logistics like?__
 [here]({{ site.baseurl }}/apply/) on the site.
 
 You will hear back from us within a week of your submissions. 
-If you have more questions, you are encouraged to contact any of the [mentors]({{ site.baseurl }}/mentors).
+If you have more questions, you are encouraged to email [hello@gajabaar.io](mailto:hello@gajabaar.io)
