@@ -7,7 +7,7 @@ sidebar_sort_order: 5
 sidebar_link: true
 
 ---
-
+<!--
 __Q. What's a gajabaar?__   
 In traditional Nepali houses, a horizontal wooden bar secures the door from the inside. It's called a gajabaar.
 
@@ -21,20 +21,29 @@ come up with a plan to acheive that goal.
 
 For the ones new to cybsersecurity, a starter curriculum can be found under  
 [Program Outline]({{ site.baseurl }}/about/).
-
-__Q. Will I get PAID?__  
-Yes - all expenses covered (tools/labs/books). We've allocated $300/mentee.
+-->
 
 __Q. Do I need prior exposure to cybersecurity?__  
-No. However, experience with coding in a programming language will be  helpful.
+No. You may find prior programming experience helpful though.
 
-__Q. So what are the logistics like?__  
-*Program Dates:* June/July/August-2020  
-*Application Deadline:* March 30, 2019   
-*Commitment:* 10-20 hrs/week (depending on skill levels, goals and availability)
-*Mentor-Mentee Sessions:* Remote. 1-2 times/week.  
-*Application:* [Here](https://docs.google.com/forms/d/e/1FAIpQLSeKhcWN3VVSb-sYk0CPeXj0DDDaNIYn4Sz_fiWwKfpqWGUWnw/viewform) via Google Forms. Sneak Peak available
-[here]({{ site.baseurl }}/apply/) on the site.
+__Q. When will the program run?__   
+June/July/August-2020
+
+__Q. Is it a paid program?__   
+Yes. We've allocated $300/participant.
+
+__Q. How much time will I commit?__   
+We anticipate 10-20 hrs per week.
+
+__Q. Is it remote or on-site?__  
+Both. You will spend time at companies as well as have remote sessions.
+
+__Q. Where do I apply?__   
+The application is available at [the application link]().
+
+
+__Q. When is the application deadline?__   
+April 15, 2020. 
 
 You will hear back from us within a week of your submissions. 
 If you have more questions, you are encouraged to email [hello@gajabaar.io](mailto:hello@gajabaar.io)
