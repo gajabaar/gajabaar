@@ -6,11 +6,17 @@ sidebar_sort_order: 9
 sidebar_link: true
 ---
 
+Round I &nbsp;Deadline:  April 15, 2020  
+Round II Deadline: April 30, 2020  
+The dates are for the mentors to schedule interviews accordingly. 
+Application to one round or the other will not affect your chances.
+
+-----
+
 The following questionaire is designed to assess the way you obtain and retain information (in theory and in practice).
 Creativity will be welcome in the answers.
 
-The application can be submitted by providing the answers
-to [this google form](https://docs.google.com/forms/d/e/1FAIpQLSeKhcWN3VVSb-sYk0CPeXj0DDDaNIYn4Sz_fiWwKfpqWGUWnw/viewform).
+The application can be accessed [via Qualtrics](https://nyu.qualtrics.com/jfe/form/SV_0Vd60AaSoHyXxad).
 
 ### Non-technical 
 Q. Tell us about a time when you learned something on your own. (300 words max.)
@@ -20,7 +26,7 @@ It might help you to think about the following while answering:
 - What were the challenges?   
 - What would have made it easier?   
 
-*As long as your answer shows your approach to learning, do not fret about answering each sub-question*
+*As long as your answer shows your approach to learning, do not fret about answering each sub-question.*
 
 Q. Tell us how you retain information that you have learned. (300 words max.)
 
@@ -28,14 +34,14 @@ The mentors agree that we tend to forget what we have learned in the past.
 Going into the program, we would like to know how you would keep track
 of things you have learned and things would like to explore further.
 
-You may also choose to send us a picture/screenshot of your notes 
+Instead of a text response, you may also choose to send us a picture/screenshot of your notes 
 on a particular topic you have learned (about computers or otherwise) 
 or send links to your blog/vlog.
 
 *Do not fret about the form of submission as long as it shows the way you track 
 your own knowledge-base.
 (example: a picture of a page from your notebook does not have a disadvantage 
-over a blog submission for another applicant)*
+over a blog submission for another applicant.)*
 
 ### Technical
 Capture the Flag (CTF) is a competition that puts together a set of security puzzles
@@ -60,7 +66,7 @@ It might help to think about the following while answering:
 - What are ideas you are still unclear about in the challenge
 
 *Do not fret about the sophistication of the challenge you pick or not knowing
-everything in the solution. Just walk us through your thought-process/understanding*
+everything in the solution. Just walk us through your thought-process/understanding.*
 
 --------
 

@@ -1,3 +1,10 @@
+---
+layout: page
+title: LICENSE
+permalink: /LICENSE.md
+sidebar_link: false
+---
+
 MIT License
 
 Copyright (c) 2020 Prasant Adhikari
