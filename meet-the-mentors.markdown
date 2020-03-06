@@ -9,7 +9,7 @@ sidebar_link: true
 |Prasant Adhikari
 |-----
 |learner; likes language and literature|
-|PhD candidate@[NYU Center For Cybersecurity](https://www.nyu.edu/)|
+|PhD candidate @[NYU Center For Cybersecurity](https://www.nyu.edu/)|
 
 |Pratima Sharma
 |-----
