@@ -9,17 +9,17 @@ sidebar_link: true
 |Prasant Adhikari
 |-----
 |learner; likes language and literature|
-|PhD candidate (Network Security) @[NYU](nyu.edu)|
+|PhD candidate@[NYU Center For Cybersecurity](https://www.nyu.edu/)|
 
 |Pratima Sharma
 |-----
-|writer, story-teller and enterpreneur|
-|CEO @[Mandala IT Solutions](mandalaitsolutions.com)|
+|writer, story-teller and entrepreneur|
+|CEO @[Mandala IT Solutions](https://mandalaitsolutions.com/)|
 
 |Rashmi Lamichhane
 |-----
 |cheerleader; likes drawing and sports|
-|Analyst @[DB Shenker](dbshenker.com)|
+|Analyst @[DB Schenker](https://www.dbschenker.com/global)|
 
 You will be introduced to additional enterpreneurs and scholars depending on your interests.
 
