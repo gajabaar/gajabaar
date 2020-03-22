@@ -38,10 +38,7 @@ The application is available [via Qualtrics](https://nyu.qualtrics.com/jfe/form/
 You can have a peek at the application questions [here]({{site.baseurl}}/apply).
 
 __Q. When is the application deadline?__   
-Round I:  April 15, 2020  
-Round II: April 30, 2020  
-The dates are for the mentors to schedule interviews accordingly. 
-Application to one round or the other will not affect your chances.
+April 30, 2020  
 
 __Q. What happens when I submit my application?__   
 Within a week, we will get in touch to schedule an interview.
