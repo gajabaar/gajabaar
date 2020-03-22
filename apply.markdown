@@ -6,10 +6,7 @@ sidebar_sort_order: 9
 sidebar_link: true
 ---
 
-Round I &nbsp;Deadline:  April 15, 2020  
-Round II Deadline: April 30, 2020  
-The dates are for the mentors to schedule interviews accordingly. 
-Application to one round or the other will not affect your chances.
+Deadline: April 30, 2020  
 
 -----
 
