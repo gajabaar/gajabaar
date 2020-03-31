@@ -30,7 +30,7 @@ google_analytics: "UA-158846176-1"
 
 # Build settings
 # theme: minima
-remote_theme: "fongandrew/hydeout"
+remote_theme: "prasantadh/hydeout"
 plugins:
     # - jekyll-feed
 
