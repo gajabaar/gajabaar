@@ -38,7 +38,7 @@ The application is available [via Qualtrics](https://nyu.qualtrics.com/jfe/form/
 You can have a peek at the application questions [here]({{site.baseurl}}/apply).
 
 __Q. When is the application deadline?__   
-April 30, 2020  
+May 1, 2020  
 
 __Q. What happens when I submit my application?__   
 Within a week, we will get in touch to schedule an interview.

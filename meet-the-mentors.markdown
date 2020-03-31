@@ -6,7 +6,9 @@ sidebar_sort_order: 7
 sidebar_link: true
 ---
 
+{% comment %}
 {% responsive_image path: assets/mentors.png alt:'meet the mentors'%}
+{% endcomment %}
 
 |Prasant Adhikari
 |-----
