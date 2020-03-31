@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Program Outline
-permalink: /about/
+title: Sample Outline
+permalink: /outline/
 sidebar_sort_order: 6
 sidebar_link: true
 ---

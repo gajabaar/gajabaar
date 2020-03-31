@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'FAQs'
+title: 'About the Program'
 sidebar_sort_order: 5
 sidebar_link: true
 

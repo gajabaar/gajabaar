@@ -6,6 +6,8 @@ sidebar_sort_order: 7
 sidebar_link: true
 ---
 
+{% responsive_image path: assets/mentors.png alt:'meet the mentors'%}
+
 |Prasant Adhikari
 |-----
 |learner; likes language and literature|
