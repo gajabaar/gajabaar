@@ -12,7 +12,7 @@ who wanted to provide you resources to build a skillset (and possibly a career)
 in cybersecurity. Our vision is a program where mentors listen to you about
 your interests, ask you about your goals then design a path from where you 
 are to where you want to get in cybersecurity. And if you are new to the whole
-field, we will take you through an [introductory curriculum here]({{site.baseurl}}/about).
+field, we will take you through an [introductory curriculum here]({{site.baseurl}}/outline).
 
 __Q. What's a gajabaar though?__   
 In traditional Nepali houses, a horizontal wooden bar secures the door from the inside. It's called a gajabaar.
