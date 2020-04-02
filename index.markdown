@@ -14,8 +14,9 @@ your interests, ask you about your goals then design a path from where you
 are to where you want to get in cybersecurity. And if you are new to the whole
 field, we will take you through an [introductory curriculum here]({{site.baseurl}}/about).
 
-__Q. Does gajabaar have a meaning?__   
+__Q. What's a gajabaar though?__   
 In traditional Nepali houses, a horizontal wooden bar secures the door from the inside. It's called a gajabaar.
+
 
 __Q. Do I need prior exposure to cybersecurity?__  
 No. You may find prior programming experience helpful though.  
