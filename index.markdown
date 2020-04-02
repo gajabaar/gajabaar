@@ -5,10 +5,7 @@ sidebar_sort_order: 5
 sidebar_link: true
 
 ---
-<!--
-__Q. What's a gajabaar?__   
-In traditional Nepali houses, a horizontal wooden bar secures the door from the inside. It's called a gajabaar.
--->
+
 __Q. Could you tell me more?__   
 Yes. We are a [group of people]({{ site.baseurl }}/mentors/) 
 who wanted to provide you resources to build a skillset (and possibly a career) 
@@ -17,12 +14,15 @@ your interests, ask you about your goals then design a path from where you
 are to where you want to get in cybersecurity. And if you are new to the whole
 field, we will take you through an [introductory curriculum here]({{site.baseurl}}/about).
 
+__Q. Does gajabaar have a meaning?__   
+In traditional Nepali houses, a horizontal wooden bar secures the door from the inside. It's called a gajabaar.
 
 __Q. Do I need prior exposure to cybersecurity?__  
-No. You may find prior programming experience helpful though.
+No. You may find prior programming experience helpful though.  
+You will need a computer and a stable internet connection. Leave us a note in your application if you don't have one, we might be able to work out a temporary solution for you.
 
 __Q. When will the program run?__   
-June to August, 2020
+June to August, 2020. This schedule is flexible to work around your more urgent commitments (like exams) with prior notice.
 
 __Q. Is it a paid program?__   
 Yes. We've allocated NRS 30,000 per participant.
