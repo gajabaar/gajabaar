@@ -19,11 +19,10 @@ In traditional Nepali houses, a horizontal wooden bar secures the door from the 
 
 
 __Q. Do I need prior exposure to cybersecurity?__  
-No. You may find prior programming experience helpful though.  
-You will need a computer and a stable internet connection. Leave us a note in your application if you don't have one, we might be able to work out a temporary solution for you.
+No. You may find prior programming experience helpful though. However, you will certainly need a computer and a stable internet connection. If you don't have one, we might still be able to work out a temporary solution for you.
 
 __Q. When will the program run?__   
-June to August, 2020. This schedule is flexible to work around your more urgent commitments (like exams) with prior notice.
+June to August, 2020. *This schedule is flexible to work around your more urgent commitments (like exams) with prior notice.*
 
 __Q. Is it a paid program?__   
 Yes. We've allocated NRS 30,000 per participant.
