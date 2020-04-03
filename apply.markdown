@@ -29,7 +29,7 @@ Q. Tell us how you retain information that you have learned. (300 words max.)
 
 The mentors agree that we tend to forget what we have learned in the past. 
 Going into the program, we would like to know how you would keep track
-of things you have learned and things would like to explore further.
+of things you have learned and things you would like to explore further.
 
 Instead of a text response, you may also choose to send us a picture/screenshot of your notes 
 on a particular topic you have learned (about computers or otherwise) 
@@ -38,7 +38,7 @@ or send links to your blog/vlog.
 *Do not fret about the form of submission as long as it shows the way you track 
 your own knowledge-base.
 (example: a picture of a page from your notebook does not have a disadvantage 
-over a blog submission for another applicant.)*
+over a blog submission from another application.)*
 
 ### Technical
 Capture the Flag (CTF) is a competition that puts together a set of security puzzles
@@ -58,7 +58,7 @@ Q. In your own words, summarize the challenge and its solution.
 
 It might help to think about the following while answering:
 - Name/Category/Link of the challenge
-- What did the authors of the challenge wanted participants to learn/notice
+- What did the authors of the challenge want participants to learn/notice
 - What did you learn in the process
 - What are ideas you are still unclear about in the challenge
 
