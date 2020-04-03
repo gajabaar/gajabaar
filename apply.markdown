@@ -7,7 +7,7 @@ sidebar_link: true
 ---
 
 Deadline: May 1, 2020  
-*All submitted applications will be considered for mentorship without regard to age, sex, race, religion, gender identity or expression, and sexual orientation. If you need special accomodation for application, let us know via email.*
+*All submitted applications will be considered for mentorship without regard to age, sex, race, religion, gender identity or expression, and sexual orientation. If you need special accomodation due to disability for application, let us know via email.*
 
 -----
 
