@@ -24,8 +24,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   An InfoSecurity Mentorship Program
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+twitter_handle: gajabaar
 github_username:  jekyll
+facebook_handle: "Gajabaar-108083670811546"
+linkedin_handle: gajabaar
+insta_handle: "gajabaar.io"
 google_analytics: "UA-158846176-1"
 
 # Build settings

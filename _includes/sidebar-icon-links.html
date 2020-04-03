@@ -1,4 +1,29 @@
 <nav id="sidebar-icon-links">
+    <a id="twitter-icon"
+       class="icon" title="Download" aria-label="Download"
+       href="https://twitter.com/{{ site.twitter_handle }} ">
+      {% include svg/twitter.svg %}
+    </a>
+
+    <a id="facebook-icon"
+       class="icon" title="Download" aria-label="Download"
+       href="https://facebook.com/{{ site.facebook_handle }} ">
+      {% include svg/facebook.svg %}
+    </a>
+
+    <a id="insta-icon"
+       class="icon" title="Download" aria-label="Download"
+       href="https://instagram.com/{{ site.insta_handle }} ">
+      {% include svg/instagram.svg %}
+    </a>
+
+    <a id="linked-icon"
+       class="icon" title="Download" aria-label="Download"
+       href="https://linkedin.com/company/{{ site.linkedin_handle }} ">
+      {% include svg/linkedin.svg %}
+    </a>
+
+
   {% if site.hydeout.repo %}
     <a id="github-link"
        class="icon" title="Github Project" aria-label="Github Project"
