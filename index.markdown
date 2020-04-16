@@ -25,7 +25,7 @@ __Q. When will the program run?__
 June to August, 2020. *This schedule is flexible to work around your more urgent commitments (like exams) with prior notice.*
 
 __Q. Is it a paid program?__   
-Yes. We've allocated NRS 30,000 per participant.
+Yes. We intend to pay the participants. We've allocated NRS 30,000 per participant.
 
 __Q. How much time will I commit?__   
 We anticipate 10-20 hrs per week.
