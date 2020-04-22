@@ -24,8 +24,8 @@ No. You may find prior programming experience helpful. However, you will certain
 __Q. When will the program run?__   
 June to August, 2020. *This schedule is flexible to work around your more urgent commitments (like exams) with prior notice.*
 
-__Q. Is it a paid program?__   
-Yes. We intend to pay the participants. We've allocated NRS 30,000 per participant.
+__Q. Do I need to pay to be in the program?__   
+No. Instead, the program will bear costs incurred during the program upto NRS 30,000 per participant.
 
 __Q. How much time will I commit?__   
 We anticipate 10-20 hrs per week.
