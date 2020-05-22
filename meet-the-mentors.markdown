@@ -10,10 +10,16 @@ sidebar_link: true
 {% responsive_image path: assets/mentors.png alt:'meet the mentors'%}
 {% endcomment %}
 
+
+|Marina Moore
+|-----
+|likes reading and hiking|
+|PhD Candidate @[NYU Center For Cybersecurity](https://www.nyu.edu/)|
+
 |Prasant Adhikari
 |-----
 |learner; likes language and literature|
-|PhD candidate @[NYU Center For Cybersecurity](https://www.nyu.edu/)|
+|PhD student @[NYU Center For Cybersecurity](https://www.nyu.edu/)|
 
 |Pratima Sharma
 |-----
@@ -22,7 +28,7 @@ sidebar_link: true
 
 |Rashmi Lamichhane
 |-----
-|cheerleader; likes drawing and sports|
+|booster; likes drawing and sports|
 |Analyst @[DB Schenker](https://www.dbschenker.com/global)|
 
 You will be introduced to additional enterpreneurs and scholars depending on your interests.
