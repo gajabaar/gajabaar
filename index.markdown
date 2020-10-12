@@ -44,3 +44,7 @@ __Q. What happens when I submit my application?__
 Within a week, we will get in touch to schedule an interview.
 
 If you have more questions, you are encouraged to email [hello@gajabaar.io](mailto:hello@gajabaar.io)
+
+*Update: Emails have proven a bit unreliable due to spam filter. 
+While we are still reachable via emails, we encourage you to join 
+our discord server (invite code: aY6PEUA) for communication*
