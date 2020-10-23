@@ -16,10 +16,10 @@ Candidates Accepted:
 > track:    
 
 Completion Rate:    
-Final Syllabus:
+Final Syllabus:  
 Student Submissions:   
 CTFs Participated:    
-Media Coverage: by [NYU CCS](https://cyber.nyu.edu/2020/09/01/tandon-ph-d-student-launches-virtual-cybersecurity-mentoring-program-for-nepali-undergrads/)
+Media Coverage: by [NYU CCS](https://cyber.nyu.edu/2020/09/01/tandon-ph-d-student-launches-virtual-cybersecurity-mentoring-program-for-nepali-undergrads/),
 
 ### Testimonials:
 
@@ -31,7 +31,7 @@ Use this as a moment to reflect upon your past two months of working with us.
 What was your impression going in? Did we live up to it/surpass it/let you down? 
 In what ways? Do you have tips for our future applicant?*
 
-The letters have been reproduced exactly as they were submitted (with possible exception of removing identification)
+The letters have been reproduced exactly as they were submitted (with possible exception of removing identification).
 
 ---
 
