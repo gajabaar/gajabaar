@@ -16,17 +16,22 @@ Candidates Accepted:
 > track:    
 
 Completion Rate:    
+Final Syllabus:
+Student Submissions:   
+CTFs Participated:    
 Media Coverage: by [NYU CCS](https://cyber.nyu.edu/2020/09/01/tandon-ph-d-student-launches-virtual-cybersecurity-mentoring-program-for-nepali-undergrads/)
 
 ### Testimonials:
 
 At the end of the 2020 cycle, 
 we asked the candidates in the program to:
+
 *Write a letter to our 2021 applicant telling them about your 2020 experience with gajabaar (250-500 words). 
 Use this as a moment to reflect upon your past two months of working with us. 
 What was your impression going in? Did we live up to it/surpass it/let you down? 
 In what ways? Do you have tips for our future applicant?*
-Following are their testimonials:
+
+The letters have been reproduced exactly as they were submitted (with possible exception of removing identification)
 
 ---
 
