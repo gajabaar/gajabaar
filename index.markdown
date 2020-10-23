@@ -48,10 +48,10 @@ __Q. When is the application deadline?__
 April 1, 2021 
 
 __Q. What happens when I submit my application?__   
-Within a week, we will get in touch to schedule an interview.
+We will get in touch after the application deadline to schedule an interview.
 
-If you have more questions, you are encouraged to email [hello@gajabaar.io](mailto:hello@gajabaar.io)
+__Q. In the meantime, how can I get in touch?__   
+We are most responsive on our discord channel (invite code: aY6PEUA). It might take a day or two to get approved.
 
-*Update: Emails have proven a bit unreliable due to spam filter. 
-While we are still reachable via emails, we encourage you to join 
-our discord server (invite code: aY6PEUA) for communication*
+You can also reach us via email on [hello@gajabaar.io](mailto:hello@gajabaar.io). We usually respond within
+a few days. The response sometimes lands on spam folder.

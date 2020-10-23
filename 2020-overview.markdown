@@ -6,16 +6,19 @@ sidebar_sort_order: 15
 sidebar_link: true
 ---
 
-Application Received:
-Candidates Interviewed:
-Candidates Accepted:
-- uni: 
-- semester: (First), (Second), (Final)
-- track: 
-Completion Rate:
-Media Coverage: [NYU CCS](https://cyber.nyu.edu/2020/09/01/tandon-ph-d-student-launches-virtual-cybersecurity-mentoring-program-for-nepali-undergrads/)
+### Statistics:
 
-Testimonials:
+Application Received:   
+Candidates Interviewed:   
+Candidates Accepted:   
+> uni:   
+> semester: (First), (Second), (Final)   
+> track:    
+
+Completion Rate:    
+Media Coverage: by [NYU CCS](https://cyber.nyu.edu/2020/09/01/tandon-ph-d-student-launches-virtual-cybersecurity-mentoring-program-for-nepali-undergrads/)
+
+### Testimonials:
 
 At the end of the 2020 cycle, 
 we asked the candidates in the program to:
@@ -24,6 +27,7 @@ Use this as a moment to reflect upon your past two months of working with us.
 What was your impression going in? Did we live up to it/surpass it/let you down? 
 In what ways? Do you have tips for our future applicant?*
 Following are their testimonials:
+
 ---
 
 Dear applicant,
@@ -37,12 +41,16 @@ The Gajabaar program has exposed me into a world I wasn't privy to. A world of p
 In many ways, the program is a roller coaster of emotions. You will feel stupid for having to refer to solutions constantly, you will feel frustrated for having missed a very simple exploit, but stick with it, labor on, and slowly but surely, you will be able to solve at least some of these assignments on your own. And trust me, nothing beats the sense of fulfillment you get when you do. If you are thinking of investing just a few hours per week and then, somehow getting by, you are going to be severely disappointed. But if you are buckling up for a grueling learning experience, you will be satisfied. And that is what this program really is — difficult but doable, challenging but fulfilling. and well, a helluva lot of fun. (eventually 😉)
 
 Yours sincerely,
+
 ---
 
 Dear Gajabaar 2021 candidate,
+
 Good job for submitting that application. You are in for an intensive 8 weeks of learning and perhaps making a friend or two.
 Some advice: start on your assignments early. It is going to take more than 10 hours every week. Speak up during the lectures/meetings!
+
 All the best,
+
 ---
 
 Dear Applicant,
@@ -54,9 +62,11 @@ I started the program with very little knowledge in Computer Networks, Cryptogra
 As one great professor put it "It is not about where you end up relative to others by the end of the program, it is about where you end up relative to yourself at the start of the program." Let the fact that I can’t view a web page without thinking of any possible vulnerabilities it might have, be a testament to the fact that Gajabaar instills a CyberSecurity mindset in you.
 
 Sincerely,
+
 ---
 
 Dear applicant,
+
 I know many of you are new to this field. 
 Some are very enthusiastic but don’t know how to begin with. 
 And some of you need an environment to test your skills, grow and compete. 
@@ -78,6 +88,7 @@ The video conference each week rejuvenated me to keep doing more. It was a journ
 After all, it's all about the impact that this journey made in my life.
 
 Also, an advice, don’t stall. It just piles up and that’s no fun. Enjoy every week as next week brings a fresh lot of stuff to keep you busy.
+
 ---
 
 Dear 2021 Applicants,
@@ -121,6 +132,7 @@ or never interacted with security stuffs, just like me.
 I can assure, you would never regret joining Gajabaar team. 
 It does not require any prequalifications and experiences.
 Here, you will always be around positive energy and motivated people.
+
 --- 
 
 To
@@ -165,6 +177,7 @@ My next goal is top 100 in the next CTF.
 After all this, I think I have passed over that first initial step I needed which I was searching when I had none to guide. 
 Now I atleast know the roadmap to follow. 
 I am thankful to everyone who’s been part of this journey and would love to continue it for the following days too together.
+
 ---
 
 To whom it may concern
@@ -186,6 +199,7 @@ At last I want to thank Gajabaar whole team for providing me with such great opp
 
 PS: The biggest achievement that i got from this programme is that it made my habit to practice and keep learning new things, 
 which is the ultimate goal of every students.
+
 ---
 
 Gajabaar program is one of the best programs that I have been to. 
@@ -213,9 +227,11 @@ Team helped me through each and every trouble that I faced past 2 months. Weekly
 So for 2021 candiate I would like to convey a message that enrolling in 
 gajabaar will change your view what actually is a Cyber Security 
 and the carrier in this field through the practical labs which will be like a real world type.
+
 ---
 
 Hi,
+
 There is a thing Prashant dai told in our last interview that has stuck with me, 
 the position of anyone in their lives is dependent a lot on chances. 
 Some would call it luck, but it is just grabbing the opportunity when it presents 
