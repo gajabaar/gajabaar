@@ -30,7 +30,7 @@ June to August, 2021.
 
 __Q. Do I need to pay to be in the program?__   
 No. In the past, we have also covered costs on behalf of the participants, 
-including offering subscriptions to [pentesterlab](https://pentesterlab.com),
+including subscriptions to [pentesterlab](https://pentesterlab.com),
 [TryHackMe](https://tryhackme.com), and [National Cyber League](https://nationalcyberleague.org).
 
 __Q. How much time will I commit?__   
