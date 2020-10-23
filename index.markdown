@@ -30,7 +30,7 @@ June to August, 2021.
 
 __Q. Do I need to pay to be in the program?__   
 No. In the past, we have also covered costs on behalf of the participants, 
-including subscriptions to [pentesterlab](https://pentesterlab.com),
+including subscriptions to [Pentesterlab](https://pentesterlab.com),
 [TryHackMe](https://tryhackme.com), and [National Cyber League](https://nationalcyberleague.org).
 
 __Q. How much time will I commit?__   
@@ -41,14 +41,15 @@ __Q. Is it remote or on-site?__
 It's remote until the pandemic is under control.
 
 __Q. Where do I apply?__   
-<!-- The application is available [via Qualtrics](https://nyu.qualtrics.com/jfe/form/SV_0Vd60AaSoHyXxad). --!>
-Application guidelines are available [here]({{site.baseurl}}/apply).
+Application guidelines are available on [How to Apply]({{site.baseurl}}/apply) page.
 
 __Q. When is the application deadline?__   
 April 1, 2021 
 
 __Q. What happens when I submit my application?__   
-We will get in touch after the application deadline to schedule an interview.
+We will get in touch to confirm receipt of your application. An interview will be scheduled
+for after the application deadline. Please be sure to check your spam in the days following 
+your application submission which is where our response lands sometimes.
 
 __Q. In the meantime, how can I get in touch?__   
 We are most responsive on our discord channel (invite code: aY6PEUA). It might take a day or two to get approved.
