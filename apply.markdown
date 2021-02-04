@@ -24,6 +24,6 @@ received for 2020, if you might find that helpful.
 5. Email the pdf to [hello@gajabaar.io](mailto:hello@gajabaar.io) with subject "Gajabaar 2021 Application". We recommend adding
 a small note to avoid spam filters.
 
-Once we receive your email, we will respond within the next few days with a follow-up. If we do not hear back from us,
+Once we receive your email, we will respond within the next few days with a follow-up. If you do not hear back from us,
 please check your spam. You can also get in touch with us via our other communication channels.
 
