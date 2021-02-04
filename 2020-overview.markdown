@@ -8,17 +8,18 @@ sidebar_link: true
 
 ### Statistics:
 
-Application Received:   
-Candidates Interviewed:   
-Candidates Accepted:   
-> uni:   
-> semester: (First), (Second), (Final)   
-> track:    
+Application Received: 21  
+> uni: 5 (KU)+ 4 (WRC) + 7 (IOE) + 1 (Islington) + 1 (GCES) + 3 (Graduated)    
+> uni-year: 1 (First), 3 (Second), 2 (Third),  12 (Final) + 3 (Graduated)   
+Candidates Interviewed: 19   
+Candidates Accepted: 18            
+> track: 6 (Regular) + 5 (Specialized) + 7 (Audit)  
 
 Completion Rate:    
-Final Syllabus:  
-Student Submissions:   
-CTFs Participated:    
+Final Syllabus: [On notion](https://www.notion.so/Syllabus-09eb2a6ce34f4fb1bfd17410ccc5fa18) 
+Student Submissions: The public available ones are available on the syllabus page.   
+CTFs Participated: 5+ 
+Total Sponsored events: 3 TryHackMe + 3 PentesterLab + 3 National Cyber League subscriptions      
 Media Coverage: by [NYU CCS](https://cyber.nyu.edu/2020/09/01/tandon-ph-d-student-launches-virtual-cybersecurity-mentoring-program-for-nepali-undergrads/),
 
 ### Testimonials:
