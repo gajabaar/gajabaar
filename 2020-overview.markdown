@@ -16,7 +16,7 @@ Candidates Interviewed: 19
 Candidates Accepted: 18            
 > track: 6 (Regular) + 5 (Specialized) + 7 (Audit)  
 
-Completion Rate:    
+Completion Rate: (11/18) 61%   
 Final Syllabus: [Available at Notion](https://www.notion.so/Syllabus-09eb2a6ce34f4fb1bfd17410ccc5fa18)    
 Student Submissions: The public available ones are available on the syllabus page.   
 CTFs Participated: 5+ 
