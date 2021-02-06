@@ -6,6 +6,10 @@ sidebar_link: true
 
 ---
 
+<p class="message">
+We are now accepting application for the 2021 cycle.
+</p>
+
 __Q. Could you tell me more?__   
 Yes. We are a [group of people]({{ site.baseurl }}/mentors/) 
 who wanted to provide you resources to build a skillset (and possibly a career) 
