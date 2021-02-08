@@ -18,10 +18,9 @@ your interests, ask you about your goals then design a path from where you
 are to where you want to get in cybersecurity. And if you are new to the whole
 field, we will take you through an [introductory curriculum here]({{site.baseurl}}/outline).
 
-__Q. What's a gajabaar though?__   
-In traditional Nepali houses, a horizontal wooden bar secures the door from the inside. 
-It's called a gajabaar.
-
+__Q. Is it गाँजाबार? (...nervous laughter...)__   
+It's गजबार. In some traditional Nepali houses, a horizontal wooden bar secures the door from the inside. One of its name is
+gajabaar.
 
 __Q. Do I need prior exposure to cybersecurity?__  
 No. You may find prior programming experience helpful. 
@@ -43,6 +42,9 @@ Workload will be adjusted as per feedback from the participant group.
 
 __Q. Is it remote or on-site?__  
 It's remote until the pandemic is under control.
+
+__Q. Is there a catch?__   
+No.
 
 __Q. Where do I apply?__   
 Application guidelines are available on [How to Apply]({{site.baseurl}}/apply) page.
