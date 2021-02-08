@@ -19,7 +19,7 @@ are to where you want to get in cybersecurity. And if you are new to the whole
 field, we will take you through an [introductory curriculum here]({{site.baseurl}}/outline).
 
 __Q. Is it गाँजाबार? (...nervous laughter...)__   
-It's गजबार. In some traditional Nepali houses, a horizontal wooden bar secures the door from the inside. One of its name is
+It's गजबार. In some traditional Nepali houses, a horizontal wooden bar secures the door from the inside. One of its names is
 gajabaar.
 
 __Q. Do I need prior exposure to cybersecurity?__  
