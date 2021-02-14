@@ -65,7 +65,7 @@ Sharpening the security skillset
 ## Part 4: Fixing the Vulnerabilities
 __WEEK 10__  
 Reporting  
-Readings from "The Pentesting Stardard"  
+Readings from "The Pentesting Standard"  
 *Learn-the-tool:* OpenVAS  
 *Lab:* Write a report for the vulnerabilities and fixes in the software built in Week 5.
 
