@@ -10,6 +10,11 @@ sidebar_link: true
 {% responsive_image path: assets/mentors.png alt:'meet the mentors'%}
 {% endcomment %}
 
+|Kalyan Parajuli
+|-----
+|soccer fan and player|
+|Graduate Student @[Carnegie Mellon University](https://www.cmu.edu)|
+
 
 |Marina Moore
 |-----
