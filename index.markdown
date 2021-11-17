@@ -7,7 +7,7 @@ sidebar_link: true
 ---
 
 <p class="message">
-We are now accepting application for the 2021 cycle.
+We are currently accepting applications for [OSCP Fellowship]({{ site.baseurl }}/oscp-fellowship)
 </p>
 
 __Q. Could you tell me more?__   
