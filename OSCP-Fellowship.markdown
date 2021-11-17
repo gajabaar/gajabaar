@@ -1,12 +1,12 @@
 ---
 layout: page
 title: OSCP Fellowship
-permalink: /2021-overview/
+permalink: /oscp-fellowship/
 sidebar_sort_order: 100
 sidebar_link: true
 ---
 
-We, at gajabaar, are thinking of supporting one or two candidates with their OSCP. If selected, we intend to provide the candidates with the necessary (partial/full) financial and academic support to go through the certification. This will come in the form of lab subscriptions and academic mentorship with people involved in the cybersecurity field. If interested, give the following questions some serious thought:
+We, at gajabaar, are thinking of supporting one or two candidates with their [OSCP](https://www.offensive-security.com/pwk-oscp/). If selected, we intend to provide the candidates with the necessary (partial/full) financial and academic support to go through the certification. This will come in the form of lab subscriptions and academic mentorship with people involved in the cybersecurity field. If interested, give the following questions some serious thought:
 
 - Introduce yourself. [250 words max.]
     
@@ -36,4 +36,4 @@ Email your questions/concerns/application-package to `hello@gajabaar.io`. In abs
 
 - Is this a giveaway? Nope. This is a collaboration. We would like to work with you on making your plans easier. Plan to take lead on your roadmap but expect changes as the mentors see fit.
 
-- Do I start with OSCP labs from Day 1? Depends on your current skill level. If you are just starting, we might direct you to more accessible resources like TryHackMe, HackTheBox, Proving Grounds, VulnHub before we are convinced that you can get on the OSCP labs. Even if you are a more seasoned practitioner, we might still suggest you cover the foundational resources available out there (ex. tjnull's list: [https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=0](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=0)) before jumping into OSCP labs. Consider including this as part of your roadmap.
+- Do I start with OSCP labs from Day 1? Depends on your current skill level. If you are just starting, we might direct you to more accessible resources like TryHackMe, HackTheBox, Proving Grounds, VulnHub before we are convinced that you can get on the OSCP labs. Even if you are a more seasoned practitioner, we might still suggest you cover the foundational resources available out there (ex. [tjnull's list](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=0)) before jumping into OSCP labs. Consider including this as part of your roadmap.
