@@ -8,12 +8,12 @@ sidebar_link: true
 
 ### Statistics:
 
-This year we used a different approached where we accepted everyone who applied
+This year we used a different approach where we accepted everyone who applied
 and showed up for the interview. 
 
 Out of 35 applications, 29 attended the interview.
 
-Out of 29 applicants, 3 finished all the assigned tasks. 
+Out of 29 applicants, 4 finished all the assigned tasks. 
 
 Final Syllabus: [Available at Notion](https://www.notion.so/2021-gajabaar-Syllabus-506096d6d54840f593748897dd52119e)    
 
