@@ -24,7 +24,7 @@ So, we strongly ENCOURAGE you to attend one of the info sessions below:
 - March 24, 2023 at 7PM NPT 
 - April 07, 2023 at 7PM NPT
 
-<a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=Mzh0MGowNjdkam1naTI5a2twa3ZoMDc3Y3VfMjAyMzAzMjRUMTMxNTAwWiBwYTEwMzhAbnl1LmVkdQ&amp;tmsrc=pa1038%40nyu.edu&amp;scp=ALL">Click here to add the event to your <img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
+<a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=Mzh0MGowNjdkam1naTI5a2twa3ZoMDc3Y3VfMjAyMzAzMjRUMTMxNTAwWiBwYTEwMzhAbnl1LmVkdQ&amp;tmsrc=pa1038%40nyu.edu&amp;scp=ALL">Click here to add the event to your Google Calendar</a>
 
 ## Application Submission Workflow
 1. Head over to the 
