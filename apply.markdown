@@ -21,8 +21,7 @@ On our end, we also find that the applications tend to be more polished and
 the interviews tend to be more meaningful for candidates 
 who have attended an info session on our program.
 So, we strongly ENCOURAGE you to attend one of the info sessions below:
-- April 23rd, 2022 7PM NPT. [Click to Register](https://forms.gle/MqLSsCAaC5hygDbq7)
-- May 7th, 2022 7PM NPT. [Click to Register](https://forms.gle/MqLSsCAaC5hygDbq7)
+- <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=Mzh0MGowNjdkam1naTI5a2twa3ZoMDc3Y3VfMjAyMzAzMjRUMTMxNTAwWiBwYTEwMzhAbnl1LmVkdQ&amp;tmsrc=pa1038%40nyu.edu&amp;scp=ALL"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
 
 ## Application Submission Workflow
 1. Head over to the 
