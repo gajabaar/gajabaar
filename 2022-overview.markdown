@@ -16,14 +16,17 @@ Of the 20 participants who marked themselves present at some point,
 4 finished all the assigned task.
 
 Our initial claim for 2022 session was
-```txt
+
+---
+
 This year we are taking a more heads-on approach to cybersecurity. 
 We will focus on a single platform Proving Grounds and tackle machines from there. 
 Each week, one of the mentors will root/hack one machine in real time during a lecture session. 
 Afterwards, one to two machines of related concepts and comparable difficulty will be 
 picked as practice machines for the week. 
 Mentors will be available for office hours to help with the machines.
-```
+
+---
 
 During the weeks, we covered eight Proving Grounds and HackTheBox
 machines and assigned eight take home machines for practice. 
