@@ -10,6 +10,7 @@ If you are interested to view out past syllabuses,
 consult:
 - [2020 Overview]({{ site.baseurl }}/2020-overview)
 - [2021 Overview]({{ site.baseurl }}/2021-overview)
+- [2022 Overview]({{ site.baseurl }}/2022-overview)
 
 This year we are taking a more heads-on approach to cybersecurity.
 We will focus on a single platform 
