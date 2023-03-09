@@ -6,11 +6,13 @@ sidebar_sort_order: 9
 sidebar_link: true
 ---
 
-Deadline: May 15, 2022
+Deadline: April 14, 2023
 
-*All submitted applications will be considered for mentorship without regard to age, sex, race, caste, religion, 
+*All submitted applications will be considered for mentorship 
+without regard to age, sex, race, caste, religion, 
 gender identity or expression, and sexual orientation. 
-If you need special accomodation due to disability for application, let us know via any of our communication channels.*
+If you need special accomodation due to disability for application, 
+please let us know via any of our communication channels.*
 
 ## An Advice
 Most of our applicants have found a prior conversation about our program
@@ -32,7 +34,7 @@ read-only google-doc application.
 from applications we 
 received for our previous application cycles, if you might find that helpful.
 4. Export a pdf of your copy of the document. (File > Download > PDF Document (.pdf))
-5. Email the pdf to [hello@gajabaar.io](mailto:hello@gajabaar.io) with subject "Gajabaar 2022 Summer Application". We recommend adding
+5. Email the pdf to [hello@gajabaar.io](mailto:hello@gajabaar.io) with subject "Gajabaar 2023 Summer Application". We recommend adding
 a small note to avoid spam filters.
 
 Once we receive your email, we will respond within the next few days with a follow-up. If you do not hear back from us,
