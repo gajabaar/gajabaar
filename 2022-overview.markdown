@@ -15,9 +15,23 @@ attendance can be seen [here](https://docs.google.com/spreadsheets/d/1JyNAffhvP0
 Of the 20 participants who marked themselves present at some point,
 4 finished all the assigned task.
 
-During the weeks, we covered a set of Proving Grounds and HackTheBox
-machines. The final submissions from the particpants are available 
+Our initial claim for 2022 session was
+```txt
+This year we are taking a more heads-on approach to cybersecurity. 
+We will focus on a single platform Proving Grounds and tackle machines from there. 
+Each week, one of the mentors will root/hack one machine in real time during a lecture session. 
+Afterwards, one to two machines of related concepts and comparable difficulty will be 
+picked as practice machines for the week. 
+Mentors will be available for office hours to help with the machines.
+```
+
+During the weeks, we covered eight Proving Grounds and HackTheBox
+machines and assigned eight take home machines for practice. 
+In turn, we asked mentees to submit their writeups for eight
+of the Proving Grounds or HackTheBox machines for certificate of completion.
+The final submissions from the particpants are available 
 [here at notion](https://prasantadh.notion.site/a0036b1da1c840d088925d08c0ef0e9d?v=72c0329d28124a8485a13afb791c83e7)
+
 
 ### Testimonials:
 
