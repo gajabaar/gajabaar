@@ -27,6 +27,10 @@ So, we strongly ENCOURAGE you to attend one of the info sessions below:
 <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=Mzh0MGowNjdkam1naTI5a2twa3ZoMDc3Y3VfMjAyMzAzMjRUMTMxNTAwWiBwYTEwMzhAbnl1LmVkdQ&amp;tmsrc=pa1038%40nyu.edu&amp;scp=ALL">Click here to add the info session events to your Google Calendar</a>
 
 ## Application Submission Workflow
+First of all, sign up for discord and join gajabaar server
+(invite code: aY6PEUA). You will need your discord username/handle
+in the application.
+
 1. Head over to the 
 [publicly available](https://docs.google.com/document/d/1v1B2OV1qczRLdAkB5NoOhSNdzpTbvx9zbkInYFE9icg/edit?usp=sharing) 
 read-only google-doc application.
@@ -39,6 +43,7 @@ received for our previous application cycles, if you might find that helpful.
 5. Email the pdf to [hello@gajabaar.io](mailto:hello@gajabaar.io) with subject "Gajabaar 2023 Summer Application". We recommend adding
 a small note to avoid spam filters.
 
-Once we receive your email, we will respond within the next few days with a follow-up. If you do not hear back from us,
-please check your spam. 
-
+Once we receive your email, 
+we will add you to a discord channel over the next few days.
+The channel will also provide instructions on 
+scheduling an interview and the subsequent results.
