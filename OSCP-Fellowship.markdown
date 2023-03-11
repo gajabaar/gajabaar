@@ -28,7 +28,7 @@ Email your questions/concerns/application-package to `hello@gajabaar.io`. In abs
 
 *FAQ:* 
 
-- Are there OSCP holders in the core gajabaar team? No. But we can connect you to some. Within the team, we have people who work on individual topics (Binary Exploitation/Web Exploitation,...) even though the skill set isn't tied together as certifications.
+- Are there OSCP holders in the core gajabaar team? Yes. 
 
 - How many people are you taking? We don't know yet. Could be 0. Could be 2.
 
