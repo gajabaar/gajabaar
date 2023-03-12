@@ -23,8 +23,9 @@ who have attended an info session on our program.
 So, we strongly ENCOURAGE you to attend one of the info sessions below:
 - March 24, 2023 at 7PM NPT 
 - April 07, 2023 at 7PM NPT
-
-<a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=Mzh0MGowNjdkam1naTI5a2twa3ZoMDc3Y3VfMjAyMzAzMjRUMTMxNTAwWiBwYTEwMzhAbnl1LmVkdQ&amp;tmsrc=pa1038%40nyu.edu&amp;scp=ALL">Click here to add the info session events to your Google Calendar</a>
+<a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=Mzh0MGowNjdkam1naTI5a2twa3ZoMDc3Y3VfMjAyMzAzMjRUMTMxNTAwWiBueXUuZWR1X3FqazdiZ2gwcGUyM2sxZGU1b21ibzdhYmg0QGc&amp;tmsrc=nyu.edu_qjk7bgh0pe23k1de5ombo7abh4%40group.calendar.google.com&amp;scp=ALL">
+Click here to add the info session events to your Google Calendar
+</a>
  or join with the link [https://meet.google.com/bjc-qxoc-fut](https://meet.google.com/bjc-qxoc-fut)
  on the day at the time.
 
