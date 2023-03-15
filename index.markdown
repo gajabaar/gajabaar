@@ -48,8 +48,9 @@ We anticipate 10-20 hrs per week.
 Workload will be adjusted as per feedback from the participant group.
 
 __Q. Is it remote or on-site?__  
-It's remote until the pandemic is under control. You might be meeting
-with some mentors in person for tea/coffee depending on their summer location.
+It's remote-first. We have set up the program and the infrastructure
+such that everything can be done remotely. You might be meeting with 
+some mentors in person for tea/coffee depending on their summer location.
 
 __Q. Is there a catch?__   
 No.
