@@ -3,7 +3,7 @@ layout: page
 title: OSCP Fellowship
 permalink: /oscp-fellowship/
 sidebar_sort_order: 100
-sidebar_link: true
+sidebar_link: false
 ---
 
 We, at gajabaar, are thinking of supporting one or two candidates with their [OSCP](https://www.offensive-security.com/pwk-oscp/). If selected, we intend to provide the candidates with the necessary (partial/full) financial and academic support to go through the certification. This will come in the form of lab subscriptions and academic mentorship with people involved in the cybersecurity field. If interested, give the following questions some serious thought:
