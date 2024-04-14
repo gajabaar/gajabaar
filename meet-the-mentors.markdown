@@ -16,11 +16,6 @@ sidebar_link: true
 |Graduate Student @[Carnegie Mellon University](https://www.cmu.edu)|
 
 
-|Marina Moore
-|-----
-|likes reading and hiking|
-|PhD Candidate @[NYU Center For Cybersecurity](https://www.nyu.edu/)|
-
 |Prasant Adhikari
 |-----
 |learner; likes language and literature|
