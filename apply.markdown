@@ -27,7 +27,7 @@ So, we strongly ENCOURAGE you to attend one of the info sessions below:
 <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=Mzh0MGowNjdkam1naTI5a2twa3ZoMDc3Y3VfMjAyMzAzMjRUMTMxNTAwWiBueXUuZWR1X3FqazdiZ2gwcGUyM2sxZGU1b21ibzdhYmg0QGc&amp;tmsrc=nyu.edu_qjk7bgh0pe23k1de5ombo7abh4%40group.calendar.google.com&amp;scp=ALL">
 Click here to add the info session events to your Google Calendar
 </a>
- or join with the link [https://meet.google.com/bjc-qxoc-fut](https://meet.google.com/bjc-qxoc-fut)
+ or join with the link [https://meet.google.com/jfe-cdtk-yxo](https://meet.google.com/jfe-cdtk-yxo)
  on the day at the time.
 
 ## Application Submission Workflow
