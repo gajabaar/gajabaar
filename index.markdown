@@ -7,7 +7,7 @@ sidebar_link: true
 ---
 
 <p class="message">
-We are currently accepting applications for 2023 Summer Program.
+We are currently accepting applications for 2024 Summer Program.
 </p>
 
 __Q. Could you tell me more?__   
@@ -32,7 +32,7 @@ However, you will certainly need a computer and a stable internet connection.
 If you don't have one, we might still be able to work out a temporary solution for you.
 
 __Q. When will the program run?__   
-June, July, August, 2023. 
+June, July, August, 2024. 
 *This schedule is flexible to work around your more urgent commitments (like exams) with prior notice.*
 
 Some of our mentees go on to stay with us and get involved
@@ -44,8 +44,8 @@ including subscriptions to [Pentesterlab](https://pentesterlab.com),
 [TryHackMe](https://tryhackme.com), and [National Cyber League](https://nationalcyberleague.org).
 
 __Q. How much time will I commit?__   
-We anticipate 10-20 hrs per week.
-Workload will be adjusted as per feedback from the participant group.
+We anticipate 10-20 hrs per week. Our experience is that without as much effort, 
+progress is unnoticeable.
 
 __Q. Is it remote or on-site?__  
 It's remote-first. We have set up the program and the infrastructure
@@ -62,7 +62,7 @@ We strongly ENCOURAGE that you attend one of the info sessions listed on the
 [same page]({{site.baseurl}}/apply).
 
 __Q. When is the application deadline?__   
-April 14, 2023
+May 14, 2024
 
 __Q. What happens when I submit my application?__   
 Once the application comes in, expect all future communication 
