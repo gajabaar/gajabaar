@@ -20,9 +20,7 @@ helpful in both writing their application as well as preparing for the interview
 On our end, we also find that the applications tend to be more polished and
 the interviews tend to be more meaningful for candidates 
 who have attended an info session on our program.
-So, we strongly ENCOURAGE you to attend one of the info sessions below:
-- March 24, 2023 at 7PM NPT 
-- April 07, 2023 at 7PM NPT
+So, we strongly ENCOURAGE you to attend our info session on April 30, 2024 at 5PM NPT
 
 <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=Mzh0MGowNjdkam1naTI5a2twa3ZoMDc3Y3VfMjAyMzAzMjRUMTMxNTAwWiBueXUuZWR1X3FqazdiZ2gwcGUyM2sxZGU1b21ibzdhYmg0QGc&amp;tmsrc=nyu.edu_qjk7bgh0pe23k1de5ombo7abh4%40group.calendar.google.com&amp;scp=ALL">
 Click here to add the info session events to your Google Calendar
