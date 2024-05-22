@@ -19,7 +19,7 @@ sidebar_link: true
 |Prasant Adhikari
 |-----
 |learner; likes language and literature|
-|PhD student @[NYU Center For Cybersecurity](https://www.nyu.edu/)|
+|Part-time Lecturer @ WRC/ICP |
 
 |Pratima Sharma
 |-----
