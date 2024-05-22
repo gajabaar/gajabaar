@@ -62,7 +62,7 @@ We strongly ENCOURAGE that you attend one of the info sessions listed on the
 [same page]({{site.baseurl}}/apply).
 
 __Q. When is the application deadline?__   
-May 14, 2024
+June 8, 2024
 
 __Q. What happens when I submit my application?__   
 Once the application comes in, expect all future communication 
