@@ -6,7 +6,7 @@ sidebar_sort_order: 9
 sidebar_link: true
 ---
 
-Deadline: April 14, 2023
+Deadline: June 8, 2024
 
 *All submitted applications will be considered for mentorship 
 without regard to age, sex, race, caste, religion, 
@@ -20,12 +20,10 @@ helpful in both writing their application as well as preparing for the interview
 On our end, we also find that the applications tend to be more polished and
 the interviews tend to be more meaningful for candidates 
 who have attended an info session on our program.
-So, we strongly ENCOURAGE you to attend our info session on April 30, 2024 at 5PM NPT
+So, we strongly ENCOURAGE you to attend our info session on May 25, 2024 at 5PM NPT
 
-<a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=Mzh0MGowNjdkam1naTI5a2twa3ZoMDc3Y3VfMjAyMzAzMjRUMTMxNTAwWiBueXUuZWR1X3FqazdiZ2gwcGUyM2sxZGU1b21ibzdhYmg0QGc&amp;tmsrc=nyu.edu_qjk7bgh0pe23k1de5ombo7abh4%40group.calendar.google.com&amp;scp=ALL">
-Click here to add the info session events to your Google Calendar
-</a>
- or join with the link [https://meet.google.com/jfe-cdtk-yxo](https://meet.google.com/jfe-cdtk-yxo)
+<a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NjNoMzZlYjY5cGRlYjlrZW8xbm1nMmlsY2Egbnl1LmVkdV9xams3YmdoMHBlMjNrMWRlNW9tYm83YWJoNEBn&amp;tmsrc=nyu.edu_qjk7bgh0pe23k1de5ombo7abh4%40group.calendar.google.com">Click here to add the info session events to your Google Calendar<img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
+ or join with the link [meet.google.com/azh-fnep-pcd](meet.google.com/azh-fnep-pcd)
  on the day at the time.
 
 ## Application Submission Workflow
@@ -42,7 +40,7 @@ read-only google-doc application.
 from applications we 
 received for our previous application cycles, if you might find that helpful.
 4. Export a pdf of your copy of the document. (File > Download > PDF Document (.pdf))
-5. Email the pdf to [hello@gajabaar.io](mailto:hello@gajabaar.io) with subject "Gajabaar 2023 Summer Application". We recommend adding
+5. Email the pdf to [hello@gajabaar.io](mailto:hello@gajabaar.io) with subject "Gajabaar 2024 Summer Application". We recommend adding
 a small note to avoid spam filters.
 
 Once we receive your email, 
