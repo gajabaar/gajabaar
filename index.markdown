@@ -7,7 +7,7 @@ sidebar_link: true
 ---
 
 <p class="message">
-We are currently accepting applications for 2024 Summer Program.
+We are currently accepting applications for 2026 Fall (September to December).
 </p>
 
 __Q. Could you tell me more?__   

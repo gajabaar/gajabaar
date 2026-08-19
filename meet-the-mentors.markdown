@@ -13,13 +13,13 @@ sidebar_link: true
 |Kalyan Parajuli
 |-----
 |soccer fan and player|
-|Graduate Student @[Carnegie Mellon University](https://www.cmu.edu)|
+|Senior Infrastructure Security Engineer @[LinkedIn](https://www.linkedin.com/in/krparajuli)|
 
 
 |Prasant Adhikari
 |-----
 |learner; likes language and literature|
-|Part-time Lecturer @ WRC/ICP |
+|Associate Instructor, New York University Abu Dhabi |
 
 |Pratima Sharma
 |-----
