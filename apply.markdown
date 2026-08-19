@@ -16,8 +16,8 @@ please let us know via any of our communication channels.*
 
 ## Application Submission Workflow
 Applicants are highly encouraged to attend the info session on 27th of August at 5:30PM Nepali time
-over [meet.google.com/ekx-ksgx-inf](meet.google.com/ekx-ksgx-inf). And if you would like to add it to your 
-[google calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NG1sZ2E1MHR0aWZyNmtrN2djdXVlbjl1bmwgbnl1LmVkdV9xams3YmdoMHBlMjNrMWRlNW9tYm83YWJoNEBn&tmsrc=nyu.edu_qjk7bgh0pe23k1de5ombo7abh4%40group.calendar.google.com)
+over [meet.google.com/ekx-ksgx-inf](meet.google.com/ekx-ksgx-inf). You can also add the event to your
+[google calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NG1sZ2E1MHR0aWZyNmtrN2djdXVlbjl1bmwgbnl1LmVkdV9xams3YmdoMHBlMjNrMWRlNW9tYm83YWJoNEBn&tmsrc=nyu.edu_qjk7bgh0pe23k1de5ombo7abh4%40group.calendar.google.com) for reminder.
 
 Application must be submitted via email to [hello@gajabaar.io](mailto:hello@gajabaar.io)
 with subject "Gajabaar 2026 application".
