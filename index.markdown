@@ -66,19 +66,12 @@ __Q. When is the application deadline?__
 September 3, 2026
 
 __Q. What happens when I submit my application?__   
-Once the application comes in, expect all future communication 
-to be over discord. For that reason, please make sure you have joined
-our discord server (invite code: aY6PEUA) and that your discord handle
-that you provide us in your application is correct. We will add you to
-a channel in discord and schedule an interview.
+Once the application comes in, expect to receive a reply for an online interview.
+You might want to check your spam folder in case our reply get flagged as such.
 
-Candidates who submit their applications earlier will be interviewed earlier.
+You are also encouraged to join our discord server (invite code: aY6PEUA).
 
 __Q. In the meantime, how can I get in touch?__   
-We are most responsive on our discord channel (invite code: aY6PEUA). 
-It might take a day or two to get approved.
-
-You can also reach us via email on 
-[hello@gajabaar.io](mailto:hello@gajabaar.io). 
+You can reach us via email on [hello@gajabaar.io](mailto:hello@gajabaar.io). 
 We usually respond within a few days. 
 The response sometimes lands on spam folder.
