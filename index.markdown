@@ -8,6 +8,7 @@ sidebar_link: true
 
 <p class="message">
 We are currently accepting applications for 2026 Fall (September to December).
+  Deadline is 3rd September, 2026.
 </p>
 
 __Q. Could you tell me more?__   
@@ -32,7 +33,7 @@ However, you will certainly need a computer and a stable internet connection.
 If you don't have one, we might still be able to work out a temporary solution for you.
 
 __Q. When will the program run?__   
-June, July, August, 2024. 
+September, October, November, December, 2026. 
 *This schedule is flexible to work around your more urgent commitments (like exams) with prior notice.*
 
 Some of our mentees go on to stay with us and get involved
@@ -50,7 +51,7 @@ progress is unnoticeable.
 __Q. Is it remote or on-site?__  
 It's remote-first. We have set up the program and the infrastructure
 such that everything can be done remotely. You might be meeting with 
-some mentors in person for tea/coffee depending on their summer location.
+some mentors in person for tea/coffee depending on their location.
 
 __Q. Is there a catch?__   
 No.
@@ -62,7 +63,7 @@ We strongly ENCOURAGE that you attend one of the info sessions listed on the
 [same page]({{site.baseurl}}/apply).
 
 __Q. When is the application deadline?__   
-June 8, 2024
+September 3, 2026
 
 __Q. What happens when I submit my application?__   
 Once the application comes in, expect all future communication 
